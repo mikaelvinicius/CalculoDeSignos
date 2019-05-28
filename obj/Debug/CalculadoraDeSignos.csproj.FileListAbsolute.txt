@@ -1,0 +1,7 @@
+C:\Users\Amanda\source\repos\Signo\bin\Debug\Signo.exe.config
+C:\Users\Amanda\source\repos\Signo\bin\Debug\Signo.exe
+C:\Users\Amanda\source\repos\Signo\bin\Debug\Signo.pdb
+C:\Users\Amanda\source\repos\Signo\obj\Debug\CalculadoraDeSignos.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\source\repos\Signo\obj\Debug\Signo.exe
+C:\Users\Amanda\source\repos\Signo\obj\Debug\Signo.pdb
+C:\Users\Amanda\source\repos\Signo\obj\Debug\CalculadoraDeSignos.csprojAssemblyReference.cache
